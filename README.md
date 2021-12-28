@@ -10,7 +10,7 @@
 
 - ▶️ I eventually post videos on [youtube.com/raffaelschemmer](https://www.youtube.com/user/spock2f)
 
-- 💬 Ask me about **Hardware, Cloud Computing, Web Services, Network, Delphi (FMX/VCL), ReactJS, React Native, NodeJS, JavaScript, HTML, SOA, REST, CSS, SQL (mysql/postgres), NoSQL (hadoop/mongodb), C, C++, Java (JSE/JSF/JME)**
+- 💬 Ask me about **Computer Architecture, Cloud Computing, Web Services (REST), Network, Delphi (FMX/VCL), ReactJS, React Native, NodeJS, JavaScript, HTML, CSS, SQL (mysql/postgres), NoSQL (hadoop/mongodb), C, C++, Java (JSE/JSF/JME)**
 
 - 📫 How to reach me **raffael.schemmer@gmail.com**
 
