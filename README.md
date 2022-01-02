@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear 😀, I'm Raffael Schemmer</h1>
-<h3 align="center">A Mobile Full Stack Developer + DevOPs and a Computer Science Teacher</h3>
+<h3 align="center">A Computing System Full Stack Engineer/Developer with Agile/DevOPs Emphasys and a Computer Science Teacher</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RaffaelSchemmer" alt="RaffaelSchemmer" /> </p>
 
 - 🔭 I’m currently working on [Ottomatics](https://www.linkedin.com/company/65481304/admin/) and [Federal Institute of Camboriú](http://camboriu.ifc.edu.br)
@@ -25,4 +25,3 @@
 <a href="https://fb.com/raffaelschemmer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="RaffaelSchemmer" height="20" width="20" /></a>
 <a href="https://instagram.com/raffaelschemmer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="RaffaelSchemmer" height="20" width="20" /></a>
 </p>
-
