@@ -2,7 +2,7 @@
 <h3 align="center">A Computing System Full Stack Engineer/Developer with Agile/DevOPs Emphasys and a Computer Science Teacher</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RaffaelSchemmer" alt="RaffaelSchemmer" /> </p>
 
-- 🔭 I’m currently working on [Ottomatics](https://www.linkedin.com/company/65481304/admin/) and [Federal Institute of Camboriú](http://camboriu.ifc.edu.br)
+- 🔭 I’m currently working/study on [Ottomatics](https://www.linkedin.com/company/65481304/admin/) and [Federal University of Pelotas](https://www.ufpel.edu.br)
 
 - 👨‍📜 My complete Vitae are available at [raffael.dev](https://www.raffael.dev)
 
